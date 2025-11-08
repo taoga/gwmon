@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/b_1.png</file>
+        <file>images/b_6.png</file>
+        <file>images/b_12.png</file>
+        <file>images/b_18.png</file>
+        <file>images/b_25.png</file>
+        <file>images/b_31.png</file>
+        <file>images/b_37.png</file>
+        <file>images/b_43.png</file>
+        <file>images/b_50.png</file>
+        <file>images/b_56.png</file>
+        <file>images/b_62.png</file>
+        <file>images/b_68.png</file>
+        <file>images/b_75.png</file>
+        <file>images/b_81.png</file>
+        <file>images/b_87.png</file>
+        <file>images/b_93.png</file>
+        <file>images/b_100.png</file>
+        <file>images/b_ac.png</file>
+        <file>images/b_1ac.png</file>
+        <file>images/b_6ac.png</file>
+        <file>images/b_12ac.png</file>
+        <file>images/b_18ac.png</file>
+        <file>images/b_25ac.png</file>
+        <file>images/b_31ac.png</file>
+        <file>images/b_37ac.png</file>
+        <file>images/b_43ac.png</file>
+        <file>images/b_50ac.png</file>
+        <file>images/b_56ac.png</file>
+        <file>images/b_62ac.png</file>
+        <file>images/b_68ac.png</file>
+        <file>images/b_75ac.png</file>
+        <file>images/b_81ac.png</file>
+        <file>images/b_87ac.png</file>
+        <file>images/b_93ac.png</file>
+        <file>images/b_100ac.png</file>
+    </qresource>
+</RCC>
